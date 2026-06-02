@@ -1,0 +1,16 @@
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+Gemfile.lock
+
+# Segredos (defensivo — NUNCA, mesmo aqui)
+.env
+*.key
+*.pem
+credentials*
+
+# Sistema
+.DS_Store
+Thumbs.db

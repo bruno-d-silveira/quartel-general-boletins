@@ -1,0 +1,12 @@
+title: "Quartel General — Boletins"
+description: "Despachos técnicos da construção do BRAIN — rigor com alma. Ensinar a pescar, não dar o peixe."
+author: "Bruno Duarte da Silveira"
+theme: minima
+# Para site de PROJETO (https://USUARIO.github.io/quartel-general-boletins/)
+# deixe o baseurl abaixo. Se um dia virar site de usuário, apague esta linha.
+baseurl: "/quartel-general-boletins"
+lang: pt-BR
+
+# Rodapé / links (edite à vontade)
+minima:
+  social_links: []
