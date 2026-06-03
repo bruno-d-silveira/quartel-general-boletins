@@ -6,6 +6,10 @@ author: Bruno Duarte da Silveira
 tags: [ia, etica, freio-humano, observador, sustentabilidade]
 ---
 
+![A coruja no ombro]({{ '/assets/img/coruja-no-ombro.png' | relative_url }})
+
+*A coruja no ombro — o conselheiro que vigia enquanto o dono descansa.*
+
 O sonho do momento é uma inteligência que decide tudo. Este despacho é sobre uma ideia menor, mais antiga e mais sábia: a inteligência que **aconselha do ombro** — enquanto a cabeça, e o freio, continuam humanos.
 
 ## A coruja voa, mas não viveu
