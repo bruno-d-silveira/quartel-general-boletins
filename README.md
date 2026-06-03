@@ -33,6 +33,16 @@ Nada cruza pra cá sem passar pelo filtro do dono:
 3. No GitHub: **Settings → Pages → Build from branch → `main` / root**.
 4. O site nasce em: `https://SEU-USUARIO.github.io/quartel-general-boletins/`
 
+## Licença
+
+Os Boletins e textos desta Vitrine estão sob **[Creative Commons Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.pt_BR)**.
+
+Você pode **compartilhar e adaptar** o conteúdo, desde que **dê crédito** ao autor e **não use para fins comerciais**. O texto legal completo está em [`LICENSE`](LICENSE).
+
+© 2026 Bruno Duarte da Silveira.
+
+> O **código** (no Cofre `treinamento-quartel-general`) é Apache-2.0; o **conteúdo** (aqui) é CC BY-NC 4.0. Cada coisa com a licença certa.
+
 ---
 
-*Apache-2.0 no cofre; aqui os textos são do autor. Rigor com alma.*
+*Rigor com alma.*
