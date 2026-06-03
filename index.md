@@ -10,3 +10,5 @@ Aqui ficam os relatórios públicos do treinamento — *o que aprendi, o que dec
 — Bruno Duarte da Silveira
 
 ---
+
+<small>Conteúdo sob [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.pt_BR) — compartilhe e adapte com crédito, sem uso comercial. © 2026 Bruno Duarte da Silveira.</small>
