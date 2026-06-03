@@ -1,5 +1,7 @@
 # Quartel General — Boletins (a Vitrine pública) 🌐
 
+### 👉 Acesse a Vitrine no ar: **[bruno-d-silveira.github.io/quartel-general-boletins](https://bruno-d-silveira.github.io/quartel-general-boletins/)**
+
 Site público (GitHub Pages) com os **Boletins técnicos** do treinamento do BRAIN.
 Este repo é a **Vitrine**. O **Cofre** (código, fórmula, experimentos) é privado e fica em `treinamento-quartel-general`.
 
