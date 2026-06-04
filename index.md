@@ -3,6 +3,8 @@ layout: home
 title: Quartel General — Boletins
 ---
 
+![Understanding connects us all]({{ '/assets/img/abalanca.png' | relative_url }})
+
 **Despachos técnicos da construção do BRAIN.**
 
 Aqui ficam os relatórios públicos do treinamento — *o que aprendi, o que decidi e por quê*. Rigor com alma. A fórmula fica no cofre; o aprendizado é de todos. *Ensinar a pescar, não dar o peixe.*
