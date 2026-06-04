@@ -6,6 +6,10 @@ author: Bruno Duarte da Silveira
 tags: [carteiro, arquitetura, privacidade, confianca, etica]
 ---
 
+![O Carteiro]({{ '/assets/img/carteiro.png' | relative_url }})
+
+*O Carteiro — o mensageiro fiel que entrega o recado intacto, na linguagem de quem recebe.*
+
 Uma casa é feita de pequenos momentos que importam. O remédio das oito foi tomado? O almoço aconteceu? A vó passou bem a tarde sozinha? São coisas miúdas — até o dia em que alguém que ama precisa saber, e está longe.
 
 Alguém precisa **carregar esses recados** com delicadeza, na linguagem de quem recebe, até quem se importa. Esse mensageiro tem nome antigo e ofício simples: o **Carteiro**. Ele é a peça que pega o que foi observado e entrega a quem precisa ler — o cuidador, a família, o dono da casa.
