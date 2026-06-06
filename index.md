@@ -15,13 +15,4 @@ Aqui ficam os relatórios públicos do treinamento — *o que aprendi, o que dec
 
 <small>Conteúdo sob [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.pt_BR) — compartilhe e adapte com crédito, sem uso comercial. © 2026 Bruno Duarte da Silveira.</small>
 
----
-
-<p style="text-align:center; margin-top:2.5rem;">
-  <img src="{{ '/assets/img/amigo-da-crianca.png' | relative_url }}"
-       alt="#EuSouUmAmigoDaCriança — UNICEF" width="200"
-       style="border-radius:12px;"><br>
-  <small><strong>Bruno é Amigo da Criança</strong> — doador mensal do UNICEF.<br>
-  Aqui se constrói <em>doando</em>, não recebendo.
-  <a href="https://www.unicef.org/brazil/motivos-para-doar">Doe você também →</a></small>
-</p>
+<small>🤍 Bruno é doador do UNICEF — <a href="https://www.unicef.org/brazil/motivos-para-doar">Amigo da Criança</a>. <a href="{{ '/assets/img/amigo-da-crianca.png' | relative_url }}">Ver selo →</a></small>
