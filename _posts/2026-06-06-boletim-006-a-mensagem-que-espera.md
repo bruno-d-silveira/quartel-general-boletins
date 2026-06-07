@@ -6,6 +6,12 @@ author: Bruno Duarte da Silveira
 tags: [entrega, comunicacao, assincrono, carteiro, passarinho-verde]
 ---
 
+![O Passarinho Verde]({{ '/assets/img/passarinho-verde.png' | relative_url }})
+
+*O Passarinho Verde — o que leva longe e não deixa ninho.*
+
+---
+
 *Nem toda entrega é ao vivo. Às vezes o recado mais confiável é o que fica lacrado, esperando quem souber chegar.*
 
 O sonho da comunicação é o fio ao vivo: instantâneo, os dois lados presentes. Este despacho é sobre o contrário — mais antigo, e às vezes mais sábio: **a mensagem que espera.**
