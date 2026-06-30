@@ -4,7 +4,6 @@ title: "Boletim 014 — A Chama que Não se Perde"
 date: 2026-06-29
 author: Bruno Duarte da Silveira
 tags: [transmissao, registro, validacao, chama, espelho, padrao]
-published: false
 ---
 
 ![A Chama que Não se Perde]({{ '/assets/img/a-chama-que-nao-se-perde.png' | relative_url }})
