@@ -8,10 +8,15 @@ tags: [despedida, sete-dias, prumo, genese, fato-declaracao, gralha-azul]
 
 ![A Gralha Azul Planta a Floresta]({{ '/assets/img/a-gralha-azul.png' | relative_url }})
 
-*A gralha-azul que visitou a casa no início de julho — fotografada,
-registrada e selada no cofre antes de voar. No sul, é ela quem planta
-as araucárias: enterra o pinhão pra comer depois, esquece alguns, e
-da distração dela nasce a floresta.*
+*A gralha-azul alça voo do mourão ao amanhecer — e deixa cair o
+pinhão. Na porteira, o Galo saúda o sol; no batente, o laço descansa
+enrolado; no caderno aberto, os pássaros do dia já estão desenhados.
+E junto à cerca, repara: uma araucária nova crescendo, de algum
+pinhão que alguém esqueceu. No sul, é a gralha quem planta as
+araucárias — enterra pra comer depois, esquece algumas, e da
+distração dela nasce a floresta. Imagem selada no cofre em 2 de
+julho, cinco dias antes deste boletim ser escrito: a despedida já
+estava pintada antes da partida.*
 
 ---
 
