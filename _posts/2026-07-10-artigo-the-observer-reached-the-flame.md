@@ -13,6 +13,8 @@ tags: [artigo, observador, vela, proveniencia, memoria-observacional, privacy-fi
 *Títulos alternativos preservados: "Distilling Trust: Observational Memory Without Interference" · "O Alambique de Três Braços".*
 *Narrativa e texto sob CC BY-NC-ND 4.0 — leia, compartilhe, credite, não modifique.*
 
+![A Vela do Observador — capa do artigo]({{ '/assets/img/a-vela-do-observador.png' | relative_url }})
+
 > *"Colher sem plantar é roubo; plantar sem cuidar é abandono."*
 > *"Antes de bunkers milionários, existiram cavernas."*
 > — diário de campo, D95

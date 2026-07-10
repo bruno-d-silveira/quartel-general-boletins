@@ -6,6 +6,20 @@ author: Bruno Duarte da Silveira
 tags: [artigo, vela, observador, proveniencia, memoria, selo, fato-declaracao]
 ---
 
+![A Vela do Observador]({{ '/assets/img/a-vela-do-observador.png' | relative_url }})
+
+*A mesa de madeira, à noite: a vela humilde queima com três pontos de
+luz contáveis dentro de uma só chama — e um quarto ponto nasce na
+borda, exatamente onde o movimento do homem que chega mexe o ar. No
+espelho oval da parede, só no reflexo, o pipeline inteiro em marca
+d'água: a formiga no portão, a abelha no favo, a senhora na porta, o
+alambique de três braços. Na mesa, o celular de face pra baixo — a
+câmera que não conseguiu ver — a nota manuscrita e o caderno laranja.
+Imagem gerada e guardada pelo autor um dia antes deste boletim; selo
+`64cb924c…` no cofre.*
+
+---
+
 *No Boletim 016, a gralha-azul alçou voo e deixou o pinhão plantado.
 Este boletim anuncia o que germinou: a casa escreveu seu primeiro
 artigo científico completo — e o publica hoje, aqui na vitrine,
