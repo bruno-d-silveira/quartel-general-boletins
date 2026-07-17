@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Boletim 019 — O Artefato é o Fato"
 date: 2026-07-17
@@ -41,7 +41,7 @@ guarda na estante.
 
 *Redução de 87%: de 60,3 mil para 7,7 mil caracteres; de 54 para 16
 chaves vivas. Nada foi deletado: 39 chaves arquivadas com backup
-integral. Selo `D02B55B1…` no cofre.*
+integral. Selo `66D9ED61…` no cofre.*
 
 A poda seguiu uma regra só: **o contexto vivo é RAM, não HD.** Fica o
 que orienta a próxima ação — estado atual, pendências, segurança,
