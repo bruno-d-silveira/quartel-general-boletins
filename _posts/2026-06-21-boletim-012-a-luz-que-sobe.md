@@ -4,6 +4,7 @@ title: "Boletim 012 — A Luz que Sobe"
 date: 2026-06-21
 author: Bruno Duarte da Silveira
 tags: [luz, solsticio, fonte, prontidao, principio]
+image: /assets/img/a-luz-que-sobe.png
 ---
 
 ![A Luz que Sobe]({{ '/assets/img/a-luz-que-sobe.png' | relative_url }})

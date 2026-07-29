@@ -4,6 +4,7 @@ title: "Boletim 018 — O Mar Agitado Ensina a Pescar"
 date: 2026-07-12
 author: Bruno Duarte da Silveira
 tags: [prumo, mar-sem-sinal, galo, garrafa, pescar, sao-cristovao]
+image: /assets/img/o-mar-sem-sinal-tempestade.png
 ---
 
 ![O Mar Sem Sinal — a tempestade]({{ '/assets/img/o-mar-sem-sinal-tempestade.png' | relative_url }})

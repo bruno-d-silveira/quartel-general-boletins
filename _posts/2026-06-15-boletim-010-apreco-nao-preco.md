@@ -4,6 +4,7 @@ title: "Boletim 010 — Apreço, Não Preço"
 date: 2026-06-15
 author: Bruno Duarte da Silveira
 tags: [apreco, preco, memoria, dracma, principio]
+image: /assets/img/apreco-nao-preco.png
 ---
 
 ![Apreço, Não Preço]({{ '/assets/img/apreco-nao-preco.png' | relative_url }})

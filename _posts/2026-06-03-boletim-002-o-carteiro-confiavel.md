@@ -4,6 +4,7 @@ title: "Boletim 002 — O Carteiro Confiável"
 date: 2026-06-03
 author: Bruno Duarte da Silveira
 tags: [carteiro, arquitetura, privacidade, confianca, etica]
+image: /assets/img/carteiro.png
 ---
 
 ![O Carteiro]({{ '/assets/img/carteiro.png' | relative_url }})

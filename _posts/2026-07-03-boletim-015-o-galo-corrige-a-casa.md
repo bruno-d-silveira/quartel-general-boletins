@@ -4,6 +4,7 @@ title: "Boletim 015 — O Galo Corrige a Casa"
 date: 2026-07-03
 author: Bruno Duarte da Silveira
 tags: [tempo, autocura, hierarquia, fonte-unica, auditoria, galo]
+image: /assets/img/o-galo-corrige-a-casa.png
 ---
 
 ![O Galo Corrige a Casa]({{ '/assets/img/o-galo-corrige-a-casa.png' | relative_url }})

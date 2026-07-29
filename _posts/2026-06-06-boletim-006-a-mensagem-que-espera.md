@@ -4,6 +4,7 @@ title: "Boletim 006 — A Mensagem que Espera"
 date: 2026-06-06
 author: Bruno Duarte da Silveira
 tags: [entrega, comunicacao, assincrono, carteiro, passarinho-verde]
+image: /assets/img/passarinho-verde.png
 ---
 
 ![O Passarinho Verde]({{ '/assets/img/passarinho-verde.png' | relative_url }})

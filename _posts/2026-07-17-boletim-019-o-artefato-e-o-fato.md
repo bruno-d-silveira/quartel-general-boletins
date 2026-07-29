@@ -1,9 +1,10 @@
-﻿---
+---
 layout: post
 title: "Boletim 019 — O Artefato é o Fato"
 date: 2026-07-17
 author: Bruno Duarte da Silveira
 tags: [poda, contexto, film-reel, passarinho, estrelas, artefato, gralha-azul]
+image: /assets/img/passarinho-voo01.gif
 ---
 
 ![O primeiro voo do passarinho — as sete estrelas sobre o mar]({{ '/assets/img/passarinho-voo01.gif' | relative_url }})

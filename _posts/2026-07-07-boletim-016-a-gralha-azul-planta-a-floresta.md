@@ -4,6 +4,7 @@ title: "Boletim 016 — A Gralha Azul Planta a Floresta"
 date: 2026-07-07
 author: Bruno Duarte da Silveira
 tags: [despedida, sete-dias, prumo, genese, fato-declaracao, gralha-azul]
+image: /assets/img/a-gralha-azul.png
 ---
 
 ![A Gralha Azul Planta a Floresta]({{ '/assets/img/a-gralha-azul.png' | relative_url }})

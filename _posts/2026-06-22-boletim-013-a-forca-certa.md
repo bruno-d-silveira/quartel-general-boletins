@@ -4,6 +4,7 @@ title: "Boletim 013 — A Força Certa"
 date: 2026-06-22
 author: Bruno Duarte da Silveira
 tags: [limpeza, fisica, tensoativo, principio, cuidado]
+image: /assets/img/a-forca-certa.png
 ---
 
 ![A Força Certa]({{ '/assets/img/a-forca-certa.png' | relative_url }})

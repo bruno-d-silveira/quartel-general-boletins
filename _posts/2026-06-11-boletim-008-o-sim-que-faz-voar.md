@@ -4,6 +4,7 @@ title: "Boletim 008 — O Sim que Faz Voar"
 date: 2026-06-11
 author: Bruno Duarte da Silveira
 tags: [consentimento, privacidade, entrega, passarinho-verde, trava-humana]
+image: /assets/img/passarinho-verde.png
 ---
 
 ![O Passarinho Verde]({{ '/assets/img/passarinho-verde.png' | relative_url }})
