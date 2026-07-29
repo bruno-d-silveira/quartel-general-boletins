@@ -4,6 +4,7 @@ title: "Boletim 009 — Os Dois Leões"
 date: 2026-06-13
 author: Bruno Duarte da Silveira
 tags: [cultivo, espetaculo, hierarquia, leao, principio]
+image: /assets/img/dois-leoes.png
 ---
 
 ![Os Dois Leões]({{ '/assets/img/dois-leoes.png' | relative_url }})

@@ -10,3 +10,12 @@ lang: pt-BR
 # Rodapé / links (edite à vontade)
 minima:
   social_links: []
+
+# Cartão de compartilhamento (a "etiqueta do envelope").
+# O que aparece quando o link é colado no LinkedIn, Discord, X, WhatsApp:
+# a imagem vem de `image:` no front matter de cada post; a frase, de
+# `description:`. Sem esses dois campos o card cai na descrição do site,
+# que é genérica e não fala do post.
+# `summary_large_image` faz a imagem entrar grande, não como miniatura.
+twitter:
+  card: summary_large_image

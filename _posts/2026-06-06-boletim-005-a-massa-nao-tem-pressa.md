@@ -4,6 +4,7 @@ title: "Boletim 005 — A Massa Não Tem Pressa"
 date: 2026-06-06
 author: Bruno Duarte da Silveira
 tags: [intencao, acao, excelencia, processo, principio]
+image: /assets/img/cacto-faixa-preta.png
 ---
 
 ![Cacto faixa-preta em postura de guarda]({{ '/assets/img/cacto-faixa-preta.png' | relative_url }})

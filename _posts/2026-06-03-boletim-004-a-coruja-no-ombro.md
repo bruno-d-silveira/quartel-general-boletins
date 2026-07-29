@@ -4,6 +4,7 @@ title: "Boletim 004 — A Coruja no Ombro"
 date: 2026-06-03
 author: Bruno Duarte da Silveira
 tags: [ia, etica, freio-humano, observador, sustentabilidade]
+image: /assets/img/coruja-no-ombro.png
 ---
 
 ![A coruja no ombro]({{ '/assets/img/coruja-no-ombro.png' | relative_url }})

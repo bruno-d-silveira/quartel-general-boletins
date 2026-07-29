@@ -4,6 +4,7 @@ title: "Boletim 011 — A Lâmpada no Escuro"
 date: 2026-06-18
 author: Bruno Duarte da Silveira
 tags: [prontidao, fe, azeite, candeia, principio]
+image: /assets/img/a-lampada-no-escuro.png
 ---
 
 ![A Lâmpada no Escuro]({{ '/assets/img/a-lampada-no-escuro.png' | relative_url }})

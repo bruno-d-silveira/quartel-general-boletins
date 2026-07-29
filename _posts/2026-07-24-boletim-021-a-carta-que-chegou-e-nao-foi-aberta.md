@@ -4,6 +4,8 @@ title: "Boletim 021 — A Carta que Chegou e Não Foi Aberta"
 date: 2026-07-24
 author: Bruno Duarte da Silveira
 tags: [handoff, proveniencia, passarinho, reconciliacao, testes, instrumento, recibo]
+image: /assets/img/passarinho-voo02-reconciliado.gif
+description: "Um trabalho terminado às 23h07 de 16 de julho passou oito dias sem nunca rodar. Não foi apagado nem rejeitado: ficou num pen drive, ao lado do documento que explicava o que era."
 ---
 
 ![O mesmo voo do Boletim 019 — agora com a fragata que cresce]({{ '/assets/img/passarinho-voo02-reconciliado.gif' | relative_url }})

@@ -4,6 +4,7 @@ title: "Boletim 007 — O Galo Canta na Chuva"
 date: 2026-06-10
 author: Bruno Duarte da Silveira
 tags: [tempo, confiabilidade, fuso-horario, galo, senhor-tempo]
+image: /assets/img/galo-na-chuva.png
 ---
 
 ![O Galo na Chuva]({{ '/assets/img/galo-na-chuva.png' | relative_url }})

@@ -4,6 +4,7 @@ title: "Boletim 020 — A Calmaria e a Herança"
 date: 2026-07-18
 author: Bruno Duarte da Silveira
 tags: [calmaria, jo-42, alianca, heranca, borboleta-azul, prumo, 105-dias]
+image: /assets/img/o-mar-sem-sinal-calmaria.png
 ---
 
 ![A calmaria — o cachorrinho de origami e o prumo na água parada]({{ '/assets/img/o-mar-sem-sinal-calmaria.png' | relative_url }})

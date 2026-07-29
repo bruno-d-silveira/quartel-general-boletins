@@ -4,6 +4,7 @@ title: "The Observer Reached the Flame — o artigo da casa (v1.1)"
 date: 2026-07-10
 author: Bruno Duarte da Silveira
 tags: [artigo, observador, vela, proveniencia, memoria-observacional, privacy-first]
+image: /assets/img/a-vela-do-observador.png
 ---
 
 ## *A Privacy-First Behavioral Pipeline with Biomimetic Guardians*

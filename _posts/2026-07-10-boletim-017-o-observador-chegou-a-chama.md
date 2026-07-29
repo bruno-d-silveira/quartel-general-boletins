@@ -4,6 +4,7 @@ title: "Boletim 017 — O Observador Chegou à Chama"
 date: 2026-07-10
 author: Bruno Duarte da Silveira
 tags: [artigo, vela, observador, proveniencia, memoria, selo, fato-declaracao]
+image: /assets/img/a-vela-do-observador.png
 ---
 
 ![A Vela do Observador]({{ '/assets/img/a-vela-do-observador.png' | relative_url }})
