@@ -3,7 +3,7 @@
 *Procedência INPI/RPC BR512026003693-3. Imagem sem legenda — a legenda é o boletim.*
 
 **Referência:** Boletim 023 · D131 · 13/08/2026
-**Estado:** prompt escrito, imagem **ainda não gerada**.
+**Estado:** imagem **gerada e aprovada**. Este documento registra o prompt que reproduz a cena.
 
 **Padrão:** natureza-morta fotográfica, luz lateral, sem pessoas e sem texto — o
 mesmo do `prompt_foto_artigo_the_work_that_doesnt_sign`. Boletim usa o padrão de
@@ -70,17 +70,32 @@ quadro, a imagem errou o boletim.
 
 ## Selo
 
-*[preencher depois de gerar — não antes]*
+| uso | arquivo no repo | sha256 (16) | bytes | dimensões | gerada |
+|---|---|---|---|---|---|
+| capa do boletim 023 | `assets/img/a-ampulheta-e-o-rolo.png` | `CAE9CF820A579C05…` | 2.352.112 | 1254×1254 | 13/08/2026 20h59m49 |
 
-| uso | sha256 (16) | bytes | hora |
-|---|---|---|---|
-| capa do boletim | — | — | — |
+SHA-256 completo:
+`CAE9CF820A579C05446F8B1AB0ADFD9361DF71FBC8490733764573ABAD6D9E03`
 
 Etiqueta **`gerada`**: imagem de gerador não tem EXIF. **Hash forte, hora-do-nome
-fraca.**
+fraca** — a hora acima vem do nome do arquivo e do carimbo do sistema, não de
+metadado embutido.
 
-⚠️ Se sair mais de uma versão, registrar a descartada aqui também, como o cap17
-fez — *versão anterior: registrada, não usada.*
+## Versão anterior — registrada, não usada
+
+Uma primeira imagem foi gerada às **20h33m58** do mesmo dia, em **1024×1536**
+(retrato). **O prompt declara `Square 1:1`** — a proporção sozinha já a coloca
+fora do padrão, e foi por isso que não é esta a capa.
+
+| sha256 (16) | bytes | dimensões | gerada |
+|---|---|---|---|
+| `3908BA9F2D5B15E3…` | 2.021.521 | 1024×1536 | 13/08/2026 20h33m58 |
+
+SHA-256 completo:
+`3908BA9F2D5B15E350BDEAD478940F373FFF1800F582CCE2C9F699FDD3D1F842`
+
+Fica registrada como o que é — **um descarte por proporção** —, não como a imagem
+do boletim.
 
 ---
 
