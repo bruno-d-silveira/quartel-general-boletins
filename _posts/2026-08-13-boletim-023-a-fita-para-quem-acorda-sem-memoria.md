@@ -8,6 +8,14 @@ image: /assets/img/a-ampulheta-e-o-rolo.png
 description: "Em março de 2026 o mundo tech reclamava de limite de uso e respondia com cidades de agentes. Aqui o problema era outro: a máquina acorda sem memória a cada sessão. A resposta foi uma fita curta."
 ---
 
+![Ampulheta sobre mesa de madeira, caderno de aba laranja à esquerda, cacto à direita]({{ '/assets/img/a-ampulheta-e-o-rolo.png' | relative_url }})
+
+*Figura, não fotografia. Nada aqui foi observado: a imagem carrega as cores da
+leitura — o laranja do caderno, o frio da luz lateral, o cacto pequeno e
+apartado no canto.*
+
+---
+
 ## O problema não era token. Era memória.
 
 Em março de 2026 o assunto do mundo tech era limite de uso. As comunidades
