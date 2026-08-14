@@ -8,8 +8,6 @@ image: /assets/img/a-ampulheta-e-o-rolo.png
 description: "Uma promoção de limites terminou num sábado. Quarenta e oito horas depois nasceu a ferramenta que a casa usa até hoje. Não foi inspiração — foi o aperto escolhendo por ela."
 ---
 
-<!-- D131, 13/08/2026. Primeira escrita do Laço, para o Dono editar por cima. Fatos medidos e conferidos. -->
-
 ![Ampulheta quase vazia sobre mesa de madeira; o grão que cai forma uma fita de filme na câmara de baixo]({{ '/assets/img/a-ampulheta-e-o-rolo.png' | relative_url }})
 
 *O gargalo é o assunto. O grão cai solto e chega enrolado do outro lado — nada
@@ -210,20 +208,3 @@ prova qual imagem foi usada. São perguntas diferentes.*
 ---
 
 *Boletim 023 — Quartel General. Projeto BRAIN, dia 131.*
-
-<!--
-⛔ TRAVAS ANTES DE PUBLICAR
-1. Zero pessoa. Nada de conteúdo clínico, nada de terceiro, nada do caderno mãe
-   que identifique alguém. Só o mecanismo. — conferido nesta escrita.
-2. Nada de "em parceria com" ninguém. Nenhuma empresa é parceira. — conferido.
-3. Não repetir o terreno do 022 (refração, quadro branco, madrugada de 12/08).
-   O 022 é citado como contraste, não repetido. — conferido.
-4. Não dizer que houve corte. Houve promoção que expira. — conferido, e a conta
-   de 33% está explícita no texto.
-5. Conferir o dia com dia_do_projeto() antes de publicar — dia 131.
-
-✍️ Texto inteiro é primeira escrita do Laço, a pedido do Dono. Registro em voz de
-casa (terceira pessoa, "a casa"), como o 022. Tudo é editável por cima; os únicos
-trechos que NÃO devem mudar sem reconferir a fonte são os números, as horas e os
-hashes.
--->
