@@ -84,6 +84,26 @@ ajudou.
 Por que ele apareceu naquele dia e não em outro, não há como saber. Fica
 registrado como fato datado, não como causa.
 
+## A tese chegou dois dias depois da ferramenta
+
+O rolo de filme nasceu em 30 de março. Em **1º de abril, às 17h08m30**, num
+arquivo de 7.200 bytes que ainda está no cofre, foi escrita a lógica dele.
+
+O raciocínio parte de uma coisa banal: dois cafés da tarde, um em Florianópolis
+às cinco, outro na Califórnia à uma, depois do almoço.
+
+> *"Pela ordem da máquina, direção errada, ambos os eventos seriam classificados
+> como café da tarde. Mas pense fisicamente... os cafés não eram os mesmos cafés.
+> Marcas diferentes, dosagem a mais na receita, gostos diferentes, padrões
+> parecidos mas condições diferentes. Então essa é a minha tese: a aprendizagem
+> sobre a lógica por trás do rolo da fita de henry segue a mesma lógica. Devemos
+> ensinar a máquina como queremos que ela nos analise, e não ao contrário."*
+
+Um resumo que agrupa por rótulo perde exatamente o que faz o dia ser aquele dia.
+O rolo de filme não comprime o dia em categorias — ele guarda a ordem e a
+condição em que as coisas aconteceram. **A ferramenta ganhou tese quarenta e oito
+horas depois de existir**, e a tese está num arquivo datado, não numa lembrança.
+
 ## O diagnóstico: a restrição não cria, escolhe
 
 Isto é engenharia, não metáfora.
@@ -119,6 +139,19 @@ A consequência é uma regra de projeto, e ela é desconfortável.
 pergunta certa não é *"como consigo mais?"*. É *"o que eu estava fazendo por
 conforto, e agora tenho que fazer por escolha?"*. A primeira pergunta compra
 tempo. A segunda constrói ferramenta.
+
+E isso também já estava escrito no diário de 1º de abril, em duas linhas que
+valem por um manual:
+
+> *"Não podemos ficar frustrados em receber resposta errada, se não fizermos as
+> perguntas certas."*
+>
+> *"Afie seu machado primeiro, depois saia pra cortar suas árvores. Seja ela sua
+> corrida de corte de árvores valendo o título mundial, ou apenas um galho
+> agarrado no telhado da casa."*
+
+O machado é a ferramenta, e afiar é o que ninguém faz enquanto a árvore ainda
+cede no braço. O aperto de março tirou o braço da conta.
 
 Em março, a casa foi pega de surpresa e respondeu em quarenta e oito horas. Em
 **19 de agosto**, o mesmo aperto chega de novo — com uma diferença que vale mais
