@@ -8,7 +8,7 @@ image: /assets/img/a-ampulheta-e-o-rolo.png
 description: "Uma promoção de limites terminou num sábado. Quarenta e oito horas depois nasceu a ferramenta que a casa usa até hoje. Não foi inspiração — foi o aperto escolhendo por ela."
 ---
 
-<!-- ESQUELETO — D131, 13/08/2026. Fatos medidos e conferidos. A prosa é do Dono. -->
+<!-- D131, 13/08/2026. Primeira escrita do Laço, para o Dono editar por cima. Fatos medidos e conferidos. -->
 
 ![Ampulheta quase vazia sobre mesa de madeira; o grão que cai forma uma fita de filme na câmara de baixo]({{ '/assets/img/a-ampulheta-e-o-rolo.png' | relative_url }})
 
@@ -28,13 +28,17 @@ que era confortável.*
 
 ## O que se descobriu hoje
 
-**Ninguém na casa tinha ligado estes dois fatos, e eles estão a quarenta e oito horas um do outro.**
+Dois fatos estavam a quarenta e oito horas um do outro, cada um no seu arquivo,
+e ninguém tinha posto os dois na mesma linha.
 
-A promoção que dobrava os limites de uso do Claude Code em off-peak e nos fins de
-semana rodou de **13 a 28 de março de 2026** e terminou na data prevista.
+O primeiro é público. A promoção que dobrava os limites de uso do Claude Code
+fora do horário de pico e nos fins de semana rodou de **13 a 28 de março de
+2026**, e terminou na data prevista. Não foi corte, não foi punição, não foi
+aviso: foi uma promoção acabando quando estava escrito que acabaria.
 
-Em **30 de março**, a casa escreveu a declaração que criou o rolo de filme. O
-motivo está na própria declaração, assinada, e não é interpretação:
+O segundo está no cofre desta casa. Em **30 de março**, dois dias depois, foi
+escrita a declaração que criou o rolo de filme. O motivo não é interpretação de
+ninguém — está na própria declaração, assinada:
 
 > *"A falta de tokens, e alta reclamação no uso de tokens, foi o fator que
 > impulsionou a criação do rolo de filme."*
@@ -46,80 +50,105 @@ existe porque o dia inteiro deixou de caber.
 
 | Quando | O quê | Onde ficou |
 |---|---|---|
-| 13–28/03/2026 | Promoção de limites dobrados (off-peak e fins de semana) — **termina na data prevista** | Anúncio público |
+| 13–28/03/2026 | Promoção de limites dobrados fora do pico e nos fins de semana — **termina na data prevista** | Anúncio público |
 | 30/03, 23h57m50 | Sessão da noite salva — nela, *"desenhar formato do rolo de filme"* | `poderosochefao.txt` · `12C73E35E1E1917F…` |
 | 31/03, 00h11m08 | **Declaração assinada** — o rolo de filme nasce da falta de token | `2b 7 day plan.md` · `775374D79729937C…` |
 | 31/03, 01h10 | *"fui dormir feliz pela conquista"* | Diário do dia |
 | 02/04, 03h09m38 | Um auditor eclode no terminal — **KnuRL** | `.claude.json`, `hatchedAt` |
-| 04/04, 20h03m12 | PDF de 945.858 bytes criado — export do bloco de notas do campeonato | CSV raw do BRAIN |
+| 04/04, 20h03m12 | PDF de 945.858 bytes criado — export do bloco de notas do campeonato | CSV bruto do BRAIN |
 | 04/04, 20h03m22 | O mesmo arquivo vira `.md` — **mesmo hash**, dez segundos depois | `65768f15055e` |
-| 05/04, 17h23 | `film_reel.py` aberto no editor | CSV raw · rolo `D9_2026-04-05` |
+| 05/04, 17h23 | `film_reel.py` aberto no editor | CSV bruto · rolo `D9_2026-04-05` |
 | **19/08/2026** | A promoção de +50% em vigor **termina** | Anúncio público |
+
+Quatro dias separam o fim de uma promoção do nascimento de uma ferramenta, e mais
+seis separam essa ferramenta do primeiro dia oficial do projeto. A janela inteira
+cabe em uma semana e meia, e cada linha dela tem carimbo.
 
 ## A nota lateral — o cacto que chegou junto
 
-Em **2 de abril de 2026, às 03h09m38**, um companion eclodiu no terminal. Nome
-gerado: **KnuRL**. Personalidade gerada, verbatim do arquivo de configuração:
-*"Spiky and surprisingly wise, but will absolutely roast your logic errors with
-the patience of a toddler in a cactus patch."*
+Em **2 de abril de 2026, às 03h09m38**, um companion eclodiu no terminal. O nome
+foi gerado pela máquina: **KnuRL**. A personalidade também, e está no arquivo de
+configuração, palavra por palavra: *"Spiky and surprisingly wise, but will
+absolutely roast your logic errors with the patience of a toddler in a cactus
+patch."*
 
-Quatro dias depois do fim da promoção, e três antes do marco zero.
+Quatro dias depois do fim da promoção. Três antes do marco zero.
 
-A primeira coisa que ele fez não foi escrever código: **apontou o que estava
-sujo.** Fins de linha inconsistentes, commits não-atômicos, um repositório de
-dados que precisava ficar privado, um token que precisava ser revogado. Trinta e
-cinco arquivos removidos. A casa foi limpa **antes** da viagem.
+A primeira coisa que ele fez não foi escrever código — foi apontar o que estava
+sujo. Fins de linha inconsistentes. Commits que misturavam assuntos. Um
+repositório de dados que precisava ficar privado. Um token que precisava ser
+revogado. Trinta e cinco arquivos removidos. A casa foi limpa **antes** da
+viagem, por um auditor espinhoso que atrapalhava tanto quanto ajudava — e
+ajudou.
 
-⏳ *Registrado com a lacuna declarada: por que ele apareceu naquele dia
-específico, não há como saber. Fica como fato datado, não como causa.*
+Por que ele apareceu naquele dia e não em outro, não há como saber. Fica
+registrado como fato datado, não como causa.
 
 ## O diagnóstico: a restrição não cria, escolhe
 
 Isto é engenharia, não metáfora.
 
 Ninguém acorda e decide construir um resumidor. Enquanto o dia inteiro cabe na
-janela, **releitura é mais barata que síntese** — e a ferramenta certa é não ter
-ferramenta. A escolha só aparece quando o dia deixa de caber.
+janela, releitura é mais barata que síntese — e a ferramenta certa é não ter
+ferramenta nenhuma. Construir um resumo antes da hora é gastar trabalho para
+resolver um problema que ainda não existe.
+
+A escolha só aparece quando o dia deixa de caber.
 
 Foi o que aconteceu em 30 de março. A restrição não trouxe a ideia do rolo de
-filme; ela **eliminou todas as alternativas mais preguiçosas**, e o que sobrou
-era a que já estava ali, sem urgência para existir.
+filme: ela eliminou todas as alternativas mais preguiçosas, e o que sobrou era a
+ideia que já estava ali, sem urgência nenhuma para existir. O aperto não inventou
+nada. Ele escolheu.
 
-É a mesma família do Boletim 022 com o sinal trocado: lá, o índice separava o que
-vinha junto. Aqui, o aperto separa o que era necessário do que era confortável.
+É a mesma família do Boletim 022, com o sinal trocado. Lá, o índice separava o
+que vinha junto sem acrescentar informação. Aqui, o gargalo separa o que era
+necessário do que era confortável — e também não acrescenta nada. Em nenhum dos
+dois casos a travessia cria. Ela distingue.
 
-**E a conta precisa, porque a casa não arredonda para o lado dramático:** a
-promoção que termina em 19 de agosto dá **+50%**. Voltar de 150% para 100% é
-perder **um terço** do que se tinha — não metade. O aperto é real; o número é 33%.
+E a conta precisa, porque esta casa não arredonda para o lado dramático: a
+promoção que termina em **19 de agosto** dá **mais cinquenta por cento**. Voltar
+de cento e cinquenta para cem é perder **um terço** do que se tinha — não
+metade. O aperto é real. O número é trinta e três por cento, e é assim que ele
+vai ser dito aqui.
 
 ## O que isso muda na construção
 
-A consequência prática é uma regra de projeto, e ela é desconfortável:
+A consequência é uma regra de projeto, e ela é desconfortável.
 
 **A escassez é uma informação de arquitetura.** Quando o limite aperta, a
-pergunta certa não é *"como consigo mais?"* — é *"o que eu estava fazendo por
-conforto e agora tenho que fazer por escolha?"*.
+pergunta certa não é *"como consigo mais?"*. É *"o que eu estava fazendo por
+conforto, e agora tenho que fazer por escolha?"*. A primeira pergunta compra
+tempo. A segunda constrói ferramenta.
 
-Em março a casa foi pega de surpresa e respondeu em quarenta e oito horas. Em
-**19 de agosto** o mesmo aperto chega de novo, com uma diferença: **desta vez
-está escrito antes.** Este boletim é o registro prévio — se a próxima ferramenta
-nascer na semana que vem, ela nasce com a data de nascimento já publicada.
+Em março, a casa foi pega de surpresa e respondeu em quarenta e oito horas. Em
+**19 de agosto**, o mesmo aperto chega de novo — com uma diferença que vale mais
+que a ferramenta: desta vez está escrito antes.
+
+Este boletim é o registro prévio. Se alguma coisa nascer aqui na semana que vem
+por falta de espaço, ela nasce com a data de nascimento já publicada — e não vai
+precisar de ninguém lembrando, daqui a quatro meses, de que dia foi.
 
 ## O fecho: o registro venceu a memória, três vezes no mesmo dia
 
-Nada acima veio de lembrança. **Veio de carimbo — e o carimbo teve que corrigir
-três inteligências no mesmo dia.**
+Nada do que está acima veio de lembrança. Veio de carimbo. E o carimbo teve que
+corrigir três inteligências no mesmo dia.
 
-Hoje, ao reconstruir esta janela de março e abril, três agentes erraram o
-calendário do projeto. Um aplicou uma régua antiga a um documento novo. Outro
-inventou um defeito que não existia num arquivo alheio e apresentou como
-descoberta o que a casa já tinha escrito, testado e indexado — três vezes, no
-mesmo dia. O terceiro já tinha resolvido tudo isso em julho, e ninguém foi ler.
+Ao reconstruir esta janela de março e abril, três agentes erraram o calendário do
+projeto. O primeiro aplicou uma régua antiga, correta na época em que nasceu, a
+um documento escrito hoje. O segundo inventou um defeito que não existia num
+arquivo alheio, chamou de erro o número de outro, e apresentou como descoberta
+aquilo que a casa já tinha escrito, testado e indexado — três vezes, no mesmo
+dia. O terceiro já tinha resolvido tudo isso em julho, com aritmética conferível
+e o git como árbitro externo, e deixou registrado. Ninguém foi ler.
 
-**Quem não errou foi o registro:** o carimbo do arquivo, o hash, o CSV bruto, o
-git. O nascimento do bloco laranja não precisou da memória de ninguém para ser
-datado — está em dois eventos de máquina separados por dez segundos, em 4 de
-abril às 20h03, com o mesmo hash dos dois lados da renomeação.
+Quem não errou foi o registro. O carimbo do arquivo. O hash. O CSV bruto. O log
+do git.
+
+O nascimento do bloco laranja não precisou da memória de ninguém para ser datado:
+está em dois eventos de máquina separados por dez segundos, em 4 de abril às
+20h03, com o mesmo hash dos dois lados da renomeação. O arquivo entrou como PDF e
+saiu como texto, e o número não mudou. É a ponte do papel para o digital,
+registrada por quem não tem opinião sobre ela.
 
 A lição não é que os agentes são confiáveis. É que **eles não precisam ser, se o
 registro for conferível.**
@@ -136,13 +165,14 @@ registro for conferível.**
 
 Quatro fotos com EXIF intacto de **29/03/2026** (06h16 → 16h14) fecham a janela
 pelo lado de antes. Os dez artefatos estão selados por hash e com cópia dupla
-conferida — **10 OK, 0 falharam**.
+conferida — dez conferidos, dez batendo.
 
 Imagem deste boletim: gerada em 13/08 às 20h59m49, 1254×1254, SHA-256
 `CAE9CF820A579C05…`. O prompt que a produziu está registrado junto com a versão
-anterior, gerada às 20h33m58 em 1024×1536 e **descartada por proporção** — o
-prompt declarava `Square 1:1` antes de existir imagem. *O prompt prova a receita.
-O hash prova qual imagem foi usada. São perguntas diferentes.*
+anterior, gerada às 20h33m58 em 1024×1536 e descartada por proporção — o prompt
+declarava `Square 1:1` antes de existir imagem, e foi a especificação, não a
+lembrança, que decidiu qual das duas é a capa. *O prompt prova a receita. O hash
+prova qual imagem foi usada. São perguntas diferentes.*
 
 ---
 
@@ -151,17 +181,16 @@ O hash prova qual imagem foi usada. São perguntas diferentes.*
 <!--
 ⛔ TRAVAS ANTES DE PUBLICAR
 1. Zero pessoa. Nada de conteúdo clínico, nada de terceiro, nada do caderno mãe
-   que identifique alguém. Só o mecanismo.
-2. Nada de "em parceria com" ninguém. Nenhuma empresa é parceira.
-3. Não repetir o terreno do 022 — a refração, o quadro branco e a madrugada de
-   12/08 já foram publicados.
-4. Não dizer que houve corte. Houve promoção que expira. O efeito sentido é o
-   mesmo; o fato não é, e a casa vive do fato.
+   que identifique alguém. Só o mecanismo. — conferido nesta escrita.
+2. Nada de "em parceria com" ninguém. Nenhuma empresa é parceira. — conferido.
+3. Não repetir o terreno do 022 (refração, quadro branco, madrugada de 12/08).
+   O 022 é citado como contraste, não repetido. — conferido.
+4. Não dizer que houve corte. Houve promoção que expira. — conferido, e a conta
+   de 33% está explícita no texto.
 5. Conferir o dia com dia_do_projeto() antes de publicar — dia 131.
 
-✍️ O QUE AINDA É LETRA DO LAÇO, E O DONO DEVE REESCREVER OU APROVAR:
-- a legenda da imagem (logo abaixo da foto)
-- a ponte em itálico com o Boletim 022
-- o título e a description do front matter
-Todo o resto é fato medido, com fonte na tabela.
+✍️ Texto inteiro é primeira escrita do Laço, a pedido do Dono. Registro em voz de
+casa (terceira pessoa, "a casa"), como o 022. Tudo é editável por cima; os únicos
+trechos que NÃO devem mudar sem reconferir a fonte são os números, as horas e os
+hashes.
 -->
