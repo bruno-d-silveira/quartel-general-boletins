@@ -8,19 +8,21 @@ image: /assets/img/a-ampulheta-e-o-rolo.png
 description: "Uma promoção de limites terminou num sábado. Quarenta e oito horas depois nasceu a ferramenta que a casa usa até hoje. Não foi inspiração — foi o aperto escolhendo por ela."
 ---
 
-<!-- ESQUELETO — D131, 13/08/2026. Estrutura + fatos medidos. A prosa é do Dono. -->
+<!-- ESQUELETO — D131, 13/08/2026. Fatos medidos e conferidos. A prosa é do Dono. -->
 
-![legenda da imagem]({{ '/assets/img/a-ampulheta-e-o-rolo.png' | relative_url }})
+![Ampulheta quase vazia sobre mesa de madeira; o grão que cai forma uma fita de filme na câmara de baixo]({{ '/assets/img/a-ampulheta-e-o-rolo.png' | relative_url }})
 
-*[LEGENDA — explicar o **mecanismo**, não a beleza. O estreitamento é o assunto:
-o que passa pelo gargalo sai organizado porque não cabe desorganizado.
-Selo `<sha16>…` no cofre.]*
+*O gargalo é o assunto. O grão cai solto e chega enrolado do outro lado — nada
+foi acrescentado na travessia; ele só deixou de caber desorganizado. À esquerda,
+o caderno de aba laranja, fechado. À direita, o cacto, pequeno e apartado.
+Selo `CAE9CF820A579C05…` no cofre.*
 
 ---
 
-*[PONTE — uma frase ligando ao 022. Sugestão de conteúdo, não de prosa: lá o
-índice não acrescentava informação, separava a que já estava junta. Aqui a
-restrição não inventa a ferramenta — obriga a escolher qual delas faltava.]*
+*No Boletim 022, a casa registrou que o índice não acrescenta informação —
+separa a que já vinha junta. Este boletim é a mesma mecânica com o sinal
+trocado: o aperto não inventa a ferramenta. Ele separa a que era necessária da
+que era confortável.*
 
 ---
 
@@ -124,8 +126,6 @@ registro for conferível.**
 
 ## Proveniência
 
-*[Tabela de selos — SHA-256 truncado em 16, mesmo formato do 022]*
-
 | Arquivo | Carimbo | SHA-256 |
 |---|---|---|
 | Sessão da noite do rolo de filme | 30/03 23h57m50 | `12C73E35E1E1917F…` |
@@ -138,9 +138,11 @@ Quatro fotos com EXIF intacto de **29/03/2026** (06h16 → 16h14) fecham a janel
 pelo lado de antes. Os dez artefatos estão selados por hash e com cópia dupla
 conferida — **10 OK, 0 falharam**.
 
-Imagem deste boletim: *[hora, dimensões, SHA-256]*. O prompt que a produziu está
-registrado. *O prompt prova a receita. O hash prova qual imagem foi usada. São
-perguntas diferentes.*
+Imagem deste boletim: gerada em 13/08 às 20h59m49, 1254×1254, SHA-256
+`CAE9CF820A579C05…`. O prompt que a produziu está registrado junto com a versão
+anterior, gerada às 20h33m58 em 1024×1536 e **descartada por proporção** — o
+prompt declarava `Square 1:1` antes de existir imagem. *O prompt prova a receita.
+O hash prova qual imagem foi usada. São perguntas diferentes.*
 
 ---
 
@@ -155,5 +157,11 @@ perguntas diferentes.*
    12/08 já foram publicados.
 4. Não dizer que houve corte. Houve promoção que expira. O efeito sentido é o
    mesmo; o fato não é, e a casa vive do fato.
-5. Conferir os números com `dia_do_projeto()` antes de publicar — dia 131.
+5. Conferir o dia com dia_do_projeto() antes de publicar — dia 131.
+
+✍️ O QUE AINDA É LETRA DO LAÇO, E O DONO DEVE REESCREVER OU APROVAR:
+- a legenda da imagem (logo abaixo da foto)
+- a ponte em itálico com o Boletim 022
+- o título e a description do front matter
+Todo o resto é fato medido, com fonte na tabela.
 -->
