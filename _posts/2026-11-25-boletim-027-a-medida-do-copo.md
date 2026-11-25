@@ -16,7 +16,7 @@ não fotografia.*
 ---
 
 *O Boletim 025 mostrou a mão de cada um no recibo. O 026 seguiu a água até o
-leito do rio. Este despacho cabe num copo.*
+leito do rio. Este boletim cabe num copo.*
 
 ## O copo do Banks
 
