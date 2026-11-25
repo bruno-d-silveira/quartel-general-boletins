@@ -76,6 +76,15 @@ equipe confiar.
 
 Na tela da novidade está a ressalva de que a ferramenta pode deixar passar erros.
 
+Pull request é o pedido na porta. Política é a medida do copo: quanto pode, até
+onde. Aprovar é dizer que coube. Mesclar é abrir a porta.
+
+Poder aprovar não é querer aprovar. O poder vem da ferramenta. O querer é de quem
+escreveu a política.
+
+O Boletim 008 já dizia: um humano, com nome, diz sim. O 025 mediu: de 517 commits
+sem modelo assinado, 437 eram merges.
+
 A pergunta é a mesma do topo da pirâmide: quem escreve a política, e quem mede o
 copo?
 
