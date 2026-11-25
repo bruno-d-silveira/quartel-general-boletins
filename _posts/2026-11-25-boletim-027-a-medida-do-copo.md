@@ -83,7 +83,7 @@ Poder aprovar não é querer aprovar. O poder vem da ferramenta. O querer é de 
 escreveu a política.
 
 O Boletim 008 já dizia: um humano, com nome, diz sim. O 025 mediu: de 517 commits
-sem modelo assinado, 437 eram merges.
+sem modelo assinado nos quatro repositórios principais, 437 eram merges.
 
 A pergunta é a mesma do topo da pirâmide: quem escreve a política, e quem mede o
 copo?
